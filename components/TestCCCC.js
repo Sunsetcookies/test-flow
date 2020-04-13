@@ -1,4 +1,3 @@
-
 var noflo = require('noflo');
 
 exports.getComponent = function() {

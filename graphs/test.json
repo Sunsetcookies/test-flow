@@ -30,6 +30,16 @@
                 "width": 72,
                 "height": 72
             }
+        },
+        "rsf-test/TestCCCC_kvt48": {
+            "component": "rsf-test/TestCCCC",
+            "metadata": {
+                "label": "TestCCCC",
+                "x": 576,
+                "y": 144,
+                "width": 72,
+                "height": 72
+            }
         }
     },
     "connections": []
