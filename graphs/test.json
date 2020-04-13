@@ -15,7 +15,17 @@
             "component": "core/Copy",
             "metadata": {
                 "label": "Copy",
-                "x": 612,
+                "x": 540,
+                "y": 288,
+                "width": 72,
+                "height": 72
+            }
+        },
+        "core/Callback_rc7qz": {
+            "component": "core/Callback",
+            "metadata": {
+                "label": "Callback",
+                "x": 720,
                 "y": 288,
                 "width": 72,
                 "height": 72
