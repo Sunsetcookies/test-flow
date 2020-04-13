@@ -1,1 +1,15 @@
-{}
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "test",
+        "environment": {
+            "type": "noflo-nodejs"
+        },
+        "icon": "apple"
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
