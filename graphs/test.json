@@ -10,6 +10,17 @@
     "inports": {},
     "outports": {},
     "groups": [],
-    "processes": {},
+    "processes": {
+        "core/Copy_lpmnp": {
+            "component": "core/Copy",
+            "metadata": {
+                "label": "Copy",
+                "x": 612,
+                "y": 288,
+                "width": 72,
+                "height": 72
+            }
+        }
+    },
     "connections": []
 }
